@@ -4,3 +4,6 @@ i = 1
 while i<=10:
     print("sandesh")
     i = i + 1
+
+For i = 10
+    print("Hello changes")
