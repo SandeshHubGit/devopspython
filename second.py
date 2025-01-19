@@ -5,3 +5,7 @@ if (i % 2) ==0:
 else:
     print("it is odd number")
 
+if (i % 2) ==0:
+    print(" It is even number")
+else:
+    print("it is odd number")
